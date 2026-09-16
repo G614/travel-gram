@@ -1,11 +1,12 @@
 header {
   padding-block: 32px;
-  font: var(--text-md);
+  background-color: var(--surface-color);
 }
 
 header .container {
   display: flex;
   justify-content: space-between;
+  font: var(--text);
 }
 
 #profile {
@@ -17,7 +18,7 @@ header .container {
   max-width: 384px;
 }
 
-#profile img {
+#profile-pic img {
   width: 176px;
   height: 176px;
   object-fit: cover;
@@ -36,6 +37,7 @@ header .container {
   
   display: flex;
   flex-direction: column;
+  align-items: start;
   gap: 16px;
 
   width: 280px;
