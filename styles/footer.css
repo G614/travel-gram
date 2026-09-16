@@ -2,8 +2,16 @@ footer {
   display: flex;
   gap: 24px;
   padding-block: 24px;
+  /* margin: 32px; */
 }
 
 footer span:nth-child(1) {
   margin-right: auto;
+}
+
+.container-footer {
+  padding-inline: 32px;
+  max-width: 1280px;
+  margin-inline: auto;
+  font: 14px/150% var(--font-family);
 }
