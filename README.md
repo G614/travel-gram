@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="./assets/Thumbnail.svg" />
+    <img src="./assets/thumbnail.jpg" />
     <p>Boas-vindas ao projeto Perfil de Viagens!🖼️🏖️</p>
 </h1>
 
